@@ -1,0 +1,12 @@
+[
+{
+"type": "MOD_INFO",
+    "id": "ration_moment",
+    "name": "Bearable Protein Rations",
+    "authors": [ "G4R5vb" ],
+    "description": "Adds a recipe to improve the evac shelter protein rations by adding honey/syrup/sugar onto them. ",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ],
+    "version": "1.0"
+	}
+	]
